@@ -1,0 +1,17 @@
+//input
+Say Hello
+Bark Sharo
+Create Animal Cat
+Create Animal Dog
+Create Plant Tree
+Create Plant Grass
+end
+
+//output
+Hello
+Sharo ~~~ Bau bauuuu
+Created animal: CAT
+Created animal: DOG
+Created plant: TREE
+Created plant: GRASS
+

@@ -1,0 +1,10 @@
+//input
+PrintInt 3
+PrintDouble 2.5
+PrintBoolean true
+End
+
+//output
+3 printed!
+2.5 printed!
+true printed!
